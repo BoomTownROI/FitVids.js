@@ -1,0 +1,19 @@
+{
+  "name": "fitvids",
+  "version": "1.0.0",
+  "description": "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
+  "main": "jquery.fitvids.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoomTownROI/FitVids.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoomTownROI/FitVids.js/issues"
+  },
+  "homepage": "https://github.com/BoomTownROI/FitVids.js#readme"
+}
